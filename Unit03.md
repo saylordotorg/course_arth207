@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH207 - Baroque Art to Neoclassicism"
+course: ARTH207
+course_fulltitle: "Baroque Art to Neoclassicism"
+course_description: "Survey of Western art from approximately 1600 to 1800. Covers artwork from the late Renaissance period to the earliest days of the Modern era, including the Baroque, Rococo, Enlightenment, and Neoclassical movements."
+---
 **Unit 3: Baroque Art in France and England** <span id="3"></span> 
 *In this unit, we turn to Baroque art produced in France and England. 
 In France,* *much as in the Netherlands, art is greatly influenced by

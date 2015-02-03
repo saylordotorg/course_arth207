@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH207 - Baroque Art to Neoclassicism"
+course: ARTH207
+course_fulltitle: "Baroque Art to Neoclassicism"
+course_description: "Survey of Western art from approximately 1600 to 1800. Covers artwork from the late Renaissance period to the earliest days of the Modern era, including the Baroque, Rococo, Enlightenment, and Neoclassical movements."
+---
 **Unit 4: Rococo** <span id="4"></span> 
 *On the heels of the Baroque, a new style (the Rococo) emerged—a style
 that was* *at once more intimate and more ostentatious that the

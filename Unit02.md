@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH207 - Baroque Art to Neoclassicism"
+course: ARTH207
+course_fulltitle: "Baroque Art to Neoclassicism"
+course_description: "Survey of Western art from approximately 1600 to 1800. Covers artwork from the late Renaissance period to the earliest days of the Modern era, including the Baroque, Rococo, Enlightenment, and Neoclassical movements."
+---
 **Unit 2: Baroque Art in the Netherlands** <span id="2"></span> 
 *In this unit, we move on to look at Baroque art as it emerged in the
 Netherlands.  In the Baroque period, the Netherlands was split into the
