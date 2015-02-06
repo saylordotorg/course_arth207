@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH207 - Baroque Art to Neoclassicism"
-course: ARTH207
-course_fulltitle: "Baroque Art to Neoclassicism"
-course_description: "Survey of Western art from approximately 1600 to 1800. Covers artwork from the late Renaissance period to the earliest days of the Modern era, including the Baroque, Rococo, Enlightenment, and Neoclassical movements."
+title: "ARTH207: Baroque Art to Neoclassicism"
+course_description: "A survey of Western art from approximately 1600 to 1800. Covers artwork from the late Renaissance period to the earliest days of the Modern era, including the Baroque, Rococo, Enlightenment, and Neoclassical movements."
+next: ../Unit07
+previous: ../Unit05
+bgimage: arth207.jpg
 ---
 **Unit 6: Neoclassicism** <span id="6"></span> 
 *This final unit culminates with the emergence of Neoclassicism. 
