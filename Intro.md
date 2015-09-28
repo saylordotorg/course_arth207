@@ -153,3 +153,4 @@ images also can be easily located in a Google search.
 - [Unit 5](https://legacy.saylor.org/arth207/Unit05/)
 - [Unit 6](https://legacy.saylor.org/arth207/Unit06/)
 - [Unit 7](https://legacy.saylor.org/arth207/Unit07/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH207/ARTH207-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ARTH/ARTH207/ARTH207-FinalExam-Answers.html)
