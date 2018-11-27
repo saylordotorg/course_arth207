@@ -52,7 +52,7 @@ Upon successful completion of this unit, students will be able to:
     Links: The Heilbrunn Timeline of Art History: Cybele Gontar:
     “[Neoclassicism](http://www.metmuseum.org/toah/hd/neoc_1/hd_neoc_1.htm)”
     (HTML); Smarthistory: Beth Gersch-Nesic:
-    “[Neo-Classicism](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-207-NeoClassicism.pdf)”
+    “[Neo-Classicism](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-NeoClassicism.pdf)”
     (PDF) ; and Art History Unstuffed: Dr. Jeanne S. M. Willette: “[The
     Origins of
     Neoclassicism](http://www.arthistoryunstuffed.com/neoclassicism/)”
@@ -104,7 +104,7 @@ Upon successful completion of this unit, students will be able to:
     (HTML) “[David’s Death of
     Socrates](http://smarthistory.khanacademy.org/david-death-of-socrates-1787.html),”
     (HTML) and “[David’s Death of
-    Marat](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH-207-DavidMarat.pdf)”
+    Marat](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-DavidMarat.pdf)”
     (PDF); Social History of Art: Professor Robert Baldwin: “[Baldwin
     David’s Death of
     Marat](http://www.socialhistoryofart.com/essaysbyperiod.htm)”
@@ -181,7 +181,7 @@ Upon successful completion of this unit, students will be able to:
     Sculpture](http://www.arthistoryunstuffed.com/french-academy-sculpture/)"
     (HTML); and Smarthistory: Ben Pollitt's "[Canova's Paolina Borghese
     as Venus
-    Victorius](http://www.saylor.org/site/wp-content/uploads/2011/11/ARTH207_Canovas-Paolina-Borghese-as-Venus-Victorious.pdf) (PDF)  
+    Victorius](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH207_Canovas-Paolina-Borghese-as-Venus-Victorious.pdf) (PDF)  
         
      Instructions: Please read these entire webpages for an introduction
     to sculpture and architecture in Neoclassical Europe.  
@@ -206,7 +206,7 @@ Upon successful completion of this unit, students will be able to:
     France and Jacques-Germain Soufflot"**
     Link: The Saylor Foundation's "[Neoclassical Architecture in France
     and Jacques-Germain
-    Soufflot](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH207-NeoclassicalArchitectureinFranceandJacques-Germain-Soufflot-FINAL.pdf)"
+    Soufflot](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-NeoclassicalArchitectureinFranceandJacques-Germain-Soufflot-FINAL.pdf)"
     (PDF)  
       
      Instructions: Please read the article above in its entirety.
@@ -396,7 +396,7 @@ Upon successful completion of this unit, students will be able to:
     Versailles, France, and Alte Nationalgalerie in Berlin, Germany”**
     Link: The Saylor Foundation: Museum Visits \#6: “[The Palace of
     Versailles, France, and Alte Nationalgalerie in Berlin,
-    Germany](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH207-Museum-Visit-61.pdf)”
+    Germany](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Museum-Visit-61.pdf)”
     (PDF)  
         
      Instructions: Please click the links above to complete these museum
@@ -406,14 +406,14 @@ Upon successful completion of this unit, students will be able to:
     Image as Representative of Its Period”**
     Link: The Saylor Foundation: Writing Assessment\#3: “[One Image as
     Representative of Its
-    Period](http://www.saylor.org/site/wp-content/uploads/2011/05/ARTH207-Writing-Assignment-31.pdf)”
+    Period](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Writing-Assignment-31.pdf)”
     (PDF)  
         
      Instructions: Please click the link above to complete this writing
     Assessment.  When you are done—or if you are stuck!—please check
     your work against The Saylor Foundation’s “[ARTH207 Writing
     Assessment 2: Guide to
-    Responding](http://www.saylor.org/site/wp-content/uploads/2012/06/ARTH207-Unit-6.3.2.2-Writing-Assessment-3.pdf).”
+    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH207-Unit-6.3.2.2-Writing-Assessment-3.pdf).”
     (PDF)
 
 
