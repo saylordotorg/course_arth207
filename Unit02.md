@@ -103,7 +103,7 @@ id="2.1"></span> 
     Cross” and Social History of Art: Professor Robert Baldwin: “Baldwin
     Rubens Massacre of the Innocents”**
     Links: Smarthistory: “[Flanders: Rubens’ The Elevation of the
-    Cross](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-RubensCross.pdf)”
+    Cross](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-207-RubensCross.pdf)”
     (PDF) and Social History of Art: Professor Robert Baldwin: “[Baldwin
     Rubens Massacre of the
     Innocents](http://www.socialhistoryofart.com/essaysbyperiod.htm)”
@@ -788,7 +788,7 @@ id="2.1"></span> 
     Link: The Saylor Foundation: Museum Visits \#2: “[The Rijksmuseum in
     Amsterdam, Netherlands, and The Metropolitan Museum of Art in New
     York
-    City](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Museum-Visit-21.pdf)”
+    City](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH207-Museum-Visit-21.pdf)”
     (PDF)  
         
      Instructions: Please click the links above to complete these museum

@@ -95,7 +95,7 @@ Upon successful completion of this unit, students will be able to:
     Peter](http://smarthistory.org/crucifixion-of-st.-peter.html),”
     (Adobe Flash) and “Caravaggio’s Narcissus at the Source” [Adobe
     Flash](http://smarthistory.org/narcissus-at-the-source.html) and
-    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-NarcissusSource.pdf).  
+    [PDF](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-207-NarcissusSource.pdf).  
         
      Instructions: Please watch these videos (approximately 19 minutes
     total) for an introduction to the art of Caravaggio.  
@@ -116,10 +116,10 @@ Upon successful completion of this unit, students will be able to:
     (Microsoft Word) and “[Baldwin Caravaggio’s Madonna of
     Loreto](http://www.socialhistoryofart.com/essaysbyperiod.htm)”
     (Microsoft Word) and Smarthistory: “[Caravaggio’s Deposition, or
-    Entombment](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-Entombment.pdf)”
+    Entombment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-207-Entombment.pdf)”
     (PDF) and “Caravaggio’s Calling of Saint Matthew” [Flash
     Video](http://smarthistory.org/caravaggio-matthew.html) and
-    [PDF](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-CallStMatt.pdf).  
+    [PDF](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-207-CallStMatt.pdf).  
         
      Instructions: Please visit Professor Robert Baldwin: “Essays by
     Period” webpage to find the two essays on Caravaggio under the
@@ -236,11 +236,11 @@ Upon successful completion of this unit, students will be able to:
     History: Veronica White: “[Gian Lorenzo Bernini
     (1598–1680)](http://www.metmuseum.org/toah/hd/bern/hd_bern.htm)”
     (HTML); Smarthistory: “[Bernini’s
-    David](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-BerniniDavid.pdf),”
+    David](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-207-BerniniDavid.pdf),”
     (PDF) “[Bernini’s Pluto and
-    Proserpina](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-BerniniPluto.pdf),”
+    Proserpina](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-207-BerniniPluto.pdf),”
     (PDF) and “[Bernini’s Ecstasy of St.
-    Theresa](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-EcstStTheresa.pdf)”
+    Theresa](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-207-EcstStTheresa.pdf)”
     (PDF); and Social History of Art: Professor Robert Baldwin:
     “[Baldwin Bernini’s Ecstasy of
     Teresa](http://www.socialhistoryofart.com/essaysbyperiod.htm)”
@@ -322,7 +322,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: The Saylor Foundation's "Carlo Maderno and His
     Architecture"**
     Link: The Saylor Foundation's "[Carlo Maderno and His
-    Architecture](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Carlo-Maderno-and-His-Architecture-FINAL1.pdf)"
+    Architecture](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH207-Carlo-Maderno-and-His-Architecture-FINAL1.pdf)"
     (PDF)  
       
      Instructions: Please read this in its entirety.
@@ -383,7 +383,7 @@ Upon successful completion of this unit, students will be able to:
 -   **Reading: The Saylor Foundation's "Francesco Borromini and His
     Architecture"**
     Link: The Saylor Foundation's "[Francesco Borromini and His
-    Architecture](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Francesco-Borromini-and-His-Architecture-FINAL1.pdf)"
+    Architecture](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH207-Francesco-Borromini-and-His-Architecture-FINAL1.pdf)"
     (PDF)  
       
      Instructions: Please read this in its entirety.
@@ -551,7 +551,7 @@ Upon successful completion of this unit, students will be able to:
     in Berlin, Germany”**
     Link: The Saylor Foundation: Museum Visit \#1: “[Gemäldegalerie in
     Berlin,
-    Germany](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Museum-Visit-11.pdf)”
+    Germany](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH207-Museum-Visit-11.pdf)”
     (PDF)  
       
      *Note: This subunit is covered by the Web Media assigned beneath
@@ -566,14 +566,14 @@ Upon successful completion of this unit, students will be able to:
     Painting”**
     Link: The Saylor Foundation: Writing Assessment\#1: “[Comparing and
     Contrasting Caravaggio or Velázquez to a Renaissance
-    Painting](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Writing-Assignment-11.pdf)”
+    Painting](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH207-Writing-Assignment-11.pdf)”
     (PDF)  
         
      Instructions: Please click the link above to complete this writing
     assignment.  When you are done—or if you are stuck!—please check
     your work against The Saylor Foundation’s “[ARTH207 Writing
     Assessment 1: Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH207-Unit1.3.3-Writing-Assessment-1.pdf).”
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/ARTH207-Unit1.3.3-Writing-Assessment-1.pdf).”
     (PDF)
 
 

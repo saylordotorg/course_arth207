@@ -190,7 +190,7 @@ Upon successful completion of this unit, students will be able to:
     Room at The Frick Collection in New York City”**
     Link: The Saylor Foundation: Museum Visit \#4: “[The Fragonard Room
     at The Frick Collection in New York
-    City](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Museum-Visit-41.pdf)”
+    City](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH207-Museum-Visit-41.pdf)”
     (PDF)  
       
      Instructions: Please click the link above to complete this museum
@@ -201,7 +201,7 @@ Upon successful completion of this unit, students will be able to:
     Metropolitan Museum of Art: Heilbrunn Timeline of Art History: Keith
     Christiansen: “Giovanni Battista Tiepolo (1696–1770)”**
     Links: Smarthistory: Jeremy Miller: “[The Tiepolo
-    Family](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-TiepoloFamily.pdf)”
+    Family](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-207-TiepoloFamily.pdf)”
     (PDF) and The Metropolitan Museum of Art: Heilbrunn Timeline of Art
     History: Keith Christiansen: “[Giovanni Battista Tiepolo
     (1696–1770](http://www.metmuseum.org/toah/hd/tiep/hd_tiep.htm))”
@@ -223,14 +223,14 @@ Upon successful completion of this unit, students will be able to:
     The Nightwatch”**
     Link: The Saylor Foundation: Writing Assessment \#2: “[Comparing and
     Contrasting Fragonard’s *The Meeting* and Rembrandt’s *The
-    Nightwatch*](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Writing-Assignment-21.pdf)”
+    Nightwatch*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH207-Writing-Assignment-21.pdf)”
     (PDF)  
         
      Instructions: Please click the link above to complete this writing
     Assessment.  When you are done—or if you are stuck!—please check
     your work against The Saylor Foundation’s “[ARTH207 Writing
     Assessment 2: Guide to
-    Responding](https://resources.saylor.org/archived/wp-content/uploads/2012/06/ARTH207-Unit-4.5-Writing-Assessment-2.pdf).”
+    Responding](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/ARTH207-Unit-4.5-Writing-Assessment-2.pdf).”
     (PDF)
 
 -   **Lecture: The Saylor Foundation's "The Rococo in Italy: Tiepolo"**
