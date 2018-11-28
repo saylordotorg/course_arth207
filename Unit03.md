@@ -241,7 +241,7 @@ Upon successful completion of this unit, students will be able to:
     During the Reign of Louis XIV (1654–1715)”; and Social History of
     Art: Professor Robert Baldwin: “Baldwin Versailles and Absolutism”**
     Links: Smarthistory: “[France
-    1600-1700](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH-207-France1600.pdf)”
+    1600-1700](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH-207-France1600.pdf)”
     (PDF); The Metropolitan Museum of Art: Heilbrunn Timeline of Art
     History: The Department of European Sculpture and Decorative Arts:
     “[French Decorative Arts During the Reign of Louis XIV
@@ -278,7 +278,7 @@ Upon successful completion of this unit, students will be able to:
     Versailles, France”**
     Link: The Saylor Foundation: Museum Visit \#3: “[The Palace of
     Versailles,
-    France](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Museum-Visit-31.pdf)”
+    France](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH207-Museum-Visit-31.pdf)”
     (PDF)  
         
      Instructions: Please click the link above to complete this museum

@@ -56,7 +56,7 @@ Upon successful completion of this unit, students will be able to:
     of Art History: Laura Auricchio: “[Eighteenth-Century Women Painters
     in France](http://www.metmuseum.org/toah/hd/18wa/hd_18wa.htm)”
     (HTML); and Smarthistory's "[1700-1800 Age of
-    Enlightenment](https://resources.saylor.org/archived/wp-content/uploads/2011/11/Saylor.org_ARTH207_1700-1800-Age-of-Enlightenment.pdf)"
+    Enlightenment](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/Saylor.org_ARTH207_1700-1800-Age-of-Enlightenment.pdf)"
     (PDF)  
         
      Instructions: Please read Professor Baldwin’s essay, which is
@@ -275,7 +275,7 @@ Upon successful completion of this unit, students will be able to:
     “[Marriage à la
     Mode](http://www.wga.hu/html/h/hogarth/marriag1.html)”
     (HTML); Smarthistory: Sophie Harland's [Hogarth's A Rake's
-    Progress](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH207_Hogarths-A-Rakes-Progress.pdf),”
+    Progress](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH207_Hogarths-A-Rakes-Progress.pdf),”
     (PDF); and Social History of Art: Professor Robert Baldwin:
     “[Baldwin Hogarth’s Marriage a la Mode and
     Actaeon](http://www.socialhistoryofart.com/essaysbyperiod.htm)”
@@ -285,7 +285,7 @@ Upon successful completion of this unit, students will be able to:
     Professor Baldwin reading under the “18th Century” heading on
     Professor Baldwin’s “Essays by Period” webpage. You will find it
     helpful to refer to Hogarth’s “[La
-    Toilette](https://resources.saylor.org/archived/wp-content/uploads/2011/11/ARTH207-5.2.1.pdf)”
+    Toilette](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/11/ARTH207-5.2.1.pdf)”
     (PDF) as you read Professor Baldwin’s essay.  
         
      Terms of Use: Please respect the copyright and terms of use
@@ -488,7 +488,7 @@ Upon successful completion of this unit, students will be able to:
     in London, United Kingdom”**
     Link: The Saylor Foundation: Museum Visit \#5: “[Tate Britain in
     London, United
-    Kingdom](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ARTH207-Museum-Visit-51.pdf)”
+    Kingdom](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ARTH207-Museum-Visit-51.pdf)”
     (PDF)  
         
      Instructions: Please click the link above to complete this museum
